@@ -1,4 +1,5 @@
 <h1>GameHub</h1>
+<p>Personal project to learn React</p>
 <h3>First project React + Typescript</h3>
 
 <p>
